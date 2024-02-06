@@ -1,0 +1,18 @@
+Test 
+Number of Questions: 3
+Question number 1:
+OpenQuestion: 
+text=how old are you
+Answer [text=24]
+
+Question number 2:
+OpenQuestion: 
+text=where is itay
+Answer [text=ramat gan]
+
+Question number 3:
+MultiChoiceQuestion: 
+text=how much will we get
+1) Answer [text=None of the above, isTrue=true]
+2) Answer [text=More than one answer, isTrue=false]
+
